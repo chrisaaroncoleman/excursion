@@ -1,0 +1,24 @@
+h1{font-family: Verdana;
+  font-weight:normal;
+  font-size: 50px;
+  color:white;
+  text-align: center;
+}
+.Your{font-family: Verdana;
+font-weight:300;
+font-size:42px;
+color:white;
+text-align: center;
+}
+a{color:Aquamarine;
+font-size: 16px;
+text-align: center;}
+#Discover{font-family: Verdana;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+#excursion{text-align: right;
+color: grey;}
+body{background-color: black;
+text-align: center;}
